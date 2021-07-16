@@ -3,7 +3,6 @@
     justify-content: flex-end;
     list-style: none;
     padding: 1.2rem 0rem;
-    margin-right: 2rem;
     position: fixed;
     top: 0%;
     width: 100%;
@@ -13,6 +12,9 @@
 .navItem {
     margin: 0rem 1rem;
     cursor: pointer;
+}
+.navItem:last-child {
+    margin-right: 3rem;
 }
 
 ul > li > span:hover {
