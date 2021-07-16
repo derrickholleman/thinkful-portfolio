@@ -13,7 +13,7 @@ const Nav = () => {
                             to="intro"
                             spy={true}
                             smooth={true}
-                            offset={-70}
+                            offset={-170}
                             duration={200}>
                                 Intro
                             </Link>
@@ -24,7 +24,7 @@ const Nav = () => {
                             to="about"
                             spy={true}
                             smooth={true}
-                            offset={-70}
+                            offset={-370}
                             duration={200}>
                                 About
                             </Link>
