@@ -13,16 +13,15 @@
     margin: 0rem 1rem;
     cursor: pointer;
 }
+.navItem:hover {
+    border-bottom: 1px solid black;
+}
 
 .active {
     border-bottom: 1px solid black;
 }
 .navItem:last-child {
     margin-right: 3rem;
-}
-
-ul > li:hover {
-    border-bottom: 1px solid black;
 }
 
 @media screen and (max-width: 768px) {

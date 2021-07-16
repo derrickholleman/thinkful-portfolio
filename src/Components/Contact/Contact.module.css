@@ -1,7 +1,8 @@
 .contactText {
     font-size: clamp(1rem, 2vw, 1.25rem);
-    margin: 0 .5rem;
+    margin: 0 auto;
     margin-bottom: 1rem;
+    width: 65%;
 }
 .contactLinks {
     font-size: clamp(1.75rem, 3vw, 2rem);
