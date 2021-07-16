@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/thinkful-portfolio/static/css/main.4f9a80da.chunk.css",
-    "main.js": "/thinkful-portfolio/static/js/main.d2697834.chunk.js",
-    "main.js.map": "/thinkful-portfolio/static/js/main.d2697834.chunk.js.map",
+    "main.js": "/thinkful-portfolio/static/js/main.9eb95fc4.chunk.js",
+    "main.js.map": "/thinkful-portfolio/static/js/main.9eb95fc4.chunk.js.map",
     "runtime-main.js": "/thinkful-portfolio/static/js/runtime-main.6c429936.js",
     "runtime-main.js.map": "/thinkful-portfolio/static/js/runtime-main.6c429936.js.map",
     "static/js/2.f37d42ee.chunk.js": "/thinkful-portfolio/static/js/2.f37d42ee.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6c429936.js",
     "static/js/2.f37d42ee.chunk.js",
     "static/css/main.4f9a80da.chunk.css",
-    "static/js/main.d2697834.chunk.js"
+    "static/js/main.9eb95fc4.chunk.js"
   ]
 }
