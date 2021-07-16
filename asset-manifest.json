@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/thinkful-portfolio-assignment/static/css/main.6c2fa53b.chunk.css",
-    "main.js": "/thinkful-portfolio-assignment/static/js/main.e70200f2.chunk.js",
-    "main.js.map": "/thinkful-portfolio-assignment/static/js/main.e70200f2.chunk.js.map",
-    "runtime-main.js": "/thinkful-portfolio-assignment/static/js/runtime-main.5aaf6835.js",
-    "runtime-main.js.map": "/thinkful-portfolio-assignment/static/js/runtime-main.5aaf6835.js.map",
-    "static/js/2.3dd9e7be.chunk.js": "/thinkful-portfolio-assignment/static/js/2.3dd9e7be.chunk.js",
-    "static/js/2.3dd9e7be.chunk.js.map": "/thinkful-portfolio-assignment/static/js/2.3dd9e7be.chunk.js.map",
-    "static/js/3.57f6dd54.chunk.js": "/thinkful-portfolio-assignment/static/js/3.57f6dd54.chunk.js",
-    "static/js/3.57f6dd54.chunk.js.map": "/thinkful-portfolio-assignment/static/js/3.57f6dd54.chunk.js.map",
-    "index.html": "/thinkful-portfolio-assignment/index.html",
-    "static/css/main.6c2fa53b.chunk.css.map": "/thinkful-portfolio-assignment/static/css/main.6c2fa53b.chunk.css.map",
-    "static/js/2.3dd9e7be.chunk.js.LICENSE.txt": "/thinkful-portfolio-assignment/static/js/2.3dd9e7be.chunk.js.LICENSE.txt",
-    "static/media/googleprofilepic.5a1ea28b.jpg": "/thinkful-portfolio-assignment/static/media/googleprofilepic.5a1ea28b.jpg"
+    "main.css": "/thinkful-portfolio/static/css/main.6c2fa53b.chunk.css",
+    "main.js": "/thinkful-portfolio/static/js/main.e70200f2.chunk.js",
+    "main.js.map": "/thinkful-portfolio/static/js/main.e70200f2.chunk.js.map",
+    "runtime-main.js": "/thinkful-portfolio/static/js/runtime-main.8af470e1.js",
+    "runtime-main.js.map": "/thinkful-portfolio/static/js/runtime-main.8af470e1.js.map",
+    "static/js/2.3dd9e7be.chunk.js": "/thinkful-portfolio/static/js/2.3dd9e7be.chunk.js",
+    "static/js/2.3dd9e7be.chunk.js.map": "/thinkful-portfolio/static/js/2.3dd9e7be.chunk.js.map",
+    "static/js/3.57f6dd54.chunk.js": "/thinkful-portfolio/static/js/3.57f6dd54.chunk.js",
+    "static/js/3.57f6dd54.chunk.js.map": "/thinkful-portfolio/static/js/3.57f6dd54.chunk.js.map",
+    "index.html": "/thinkful-portfolio/index.html",
+    "static/css/main.6c2fa53b.chunk.css.map": "/thinkful-portfolio/static/css/main.6c2fa53b.chunk.css.map",
+    "static/js/2.3dd9e7be.chunk.js.LICENSE.txt": "/thinkful-portfolio/static/js/2.3dd9e7be.chunk.js.LICENSE.txt",
+    "static/media/googleprofilepic.5a1ea28b.jpg": "/thinkful-portfolio/static/media/googleprofilepic.5a1ea28b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5aaf6835.js",
+    "static/js/runtime-main.8af470e1.js",
     "static/js/2.3dd9e7be.chunk.js",
     "static/css/main.6c2fa53b.chunk.css",
     "static/js/main.e70200f2.chunk.js"
