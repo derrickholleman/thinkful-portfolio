@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thinkful-portfolio/static/css/main.1ad0291c.chunk.css",
+    "main.css": "/thinkful-portfolio/static/css/main.e0adcd79.chunk.css",
     "main.js": "/thinkful-portfolio/static/js/main.9eb95fc4.chunk.js",
     "main.js.map": "/thinkful-portfolio/static/js/main.9eb95fc4.chunk.js.map",
     "runtime-main.js": "/thinkful-portfolio/static/js/runtime-main.6c429936.js",
@@ -10,14 +10,14 @@
     "static/js/3.14c22fb1.chunk.js": "/thinkful-portfolio/static/js/3.14c22fb1.chunk.js",
     "static/js/3.14c22fb1.chunk.js.map": "/thinkful-portfolio/static/js/3.14c22fb1.chunk.js.map",
     "index.html": "/thinkful-portfolio/index.html",
-    "static/css/main.1ad0291c.chunk.css.map": "/thinkful-portfolio/static/css/main.1ad0291c.chunk.css.map",
+    "static/css/main.e0adcd79.chunk.css.map": "/thinkful-portfolio/static/css/main.e0adcd79.chunk.css.map",
     "static/js/2.f37d42ee.chunk.js.LICENSE.txt": "/thinkful-portfolio/static/js/2.f37d42ee.chunk.js.LICENSE.txt",
     "static/media/googleprofilepic.5a1ea28b.jpg": "/thinkful-portfolio/static/media/googleprofilepic.5a1ea28b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6c429936.js",
     "static/js/2.f37d42ee.chunk.js",
-    "static/css/main.1ad0291c.chunk.css",
+    "static/css/main.e0adcd79.chunk.css",
     "static/js/main.9eb95fc4.chunk.js"
   ]
 }
