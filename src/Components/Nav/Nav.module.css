@@ -24,3 +24,12 @@
 ul > li:hover {
     border-bottom: 1px solid black;
 }
+
+@media screen and (max-width: 768px) {
+    .navContainer {
+        justify-content: center;
+    }
+    .navItem:last-child {
+        margin-right: 0%;
+    }
+}
