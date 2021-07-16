@@ -39,7 +39,12 @@ body {
 
 a {
   text-decoration: none;
+}
+.nonNavLinks {
   color: #717722;
+}
+.nonNavLinks:hover {
+  opacity: .75;
 }
 
 ul li::marker {

@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './Nav.module.css';
+import { Link } from "react-scroll";
 
 const Nav = () => {
     return (
@@ -7,13 +8,37 @@ const Nav = () => {
             <div className='Container' style={{'margin':'0rem'}}>
                 <ul className={styles.navContainer}>
                     <li className={styles.navItem}>
-                        <span>Intro</span>
+                            <Link
+                            activeClass={styles.active}
+                            to="intro"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration={200}>
+                                Intro
+                            </Link>
                     </li>
                     <li className={styles.navItem}>
-                        <span>About</span>
+                            <Link
+                            activeClass={styles.active}
+                            to="about"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration={200}>
+                                About
+                            </Link>
                     </li>
                     <li className={styles.navItem}>
-                        <span>Contact</span>
+                            <Link
+                            activeClass={styles.active}
+                            to="contact"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration={200}>
+                                Contact
+                            </Link>
                     </li>
                 </ul>
             </div>

@@ -4,7 +4,7 @@ import profilepic from './images/googleprofilepic.jpg'
 
 const Intro = () => {
     return (
-        <article className='Container'>
+        <article className='Container' id="intro">
             <img src={profilepic} alt='picture of me' className={styles.profilePic}/>
             <h1>
                 Hi!  I'm Derrick Holleman.

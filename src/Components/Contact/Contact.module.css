@@ -11,6 +11,3 @@
     align-items: center;
     width: 100px;
 }
-.contactLinks > li > a:hover {
-    opacity: .75;
-}
