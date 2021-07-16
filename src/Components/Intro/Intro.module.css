@@ -1,6 +1,7 @@
 .profilePic {
     max-width: clamp(200px, 80%, 400px);
     height: auto;
+    margin-top: 2rem;
 }
 
 .introText {
