@@ -3,9 +3,16 @@ import styles from './Contact.module.css';
 
 const Contact = () => {
     return (
-        <div className='Container'>
-            
-        </div>
+        <article className='Container'>
+            <h3>Contact Me!</h3>
+            <p className={styles.contactText}>
+                I'd love to hear from you!  Please feel free to contact me at the following:
+            </p>
+            <ol className={styles.contactLinks}>
+                <li><a href='https://www.linkedin.com/in/derrickholleman/' target='_blank'>LinkedIn</a></li>
+                <li><a href='https://github.com/derrickholleman' target='_blank'>Github</a></li>
+            </ol>
+        </article>
     )
 }
 

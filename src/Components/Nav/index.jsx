@@ -3,9 +3,21 @@ import styles from './Nav.module.css';
 
 const Nav = () => {
     return (
-        <div>
-            
-        </div>
+        <nav>
+            <div className='Container' style={{'margin':'0rem'}}>
+                <ul className={styles.navContainer}>
+                    <li className={styles.navItem}>
+                        <span>Intro</span>
+                    </li>
+                    <li className={styles.navItem}>
+                        <span>About</span>
+                    </li>
+                    <li className={styles.navItem}>
+                        <span>Contact</span>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     )
 }
 

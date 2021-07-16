@@ -3,9 +3,11 @@ import styles from './Footer.module.css';
 
 const Footer = () => {
     return (
-        <div>
-            
-        </div>
+        <footer>
+            <div className={styles.footerContainer}>
+                &copy; Derrick Holleman 2021
+            </div>
+        </footer>
     )
 }
 
