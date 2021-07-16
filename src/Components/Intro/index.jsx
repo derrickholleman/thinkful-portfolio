@@ -3,7 +3,7 @@ import styles from './Intro.module.css';
 
 const Intro = () => {
     return (
-        <div>
+        <div className='Container'>
             
         </div>
     )
